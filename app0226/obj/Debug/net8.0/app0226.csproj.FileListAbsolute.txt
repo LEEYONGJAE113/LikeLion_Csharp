@@ -1,0 +1,15 @@
+/Users/leeyongjae/Desktop/Projects/likelion/LikeLion_Csharp/app0226/bin/Debug/net8.0/app0226
+/Users/leeyongjae/Desktop/Projects/likelion/LikeLion_Csharp/app0226/bin/Debug/net8.0/app0226.deps.json
+/Users/leeyongjae/Desktop/Projects/likelion/LikeLion_Csharp/app0226/bin/Debug/net8.0/app0226.runtimeconfig.json
+/Users/leeyongjae/Desktop/Projects/likelion/LikeLion_Csharp/app0226/bin/Debug/net8.0/app0226.dll
+/Users/leeyongjae/Desktop/Projects/likelion/LikeLion_Csharp/app0226/bin/Debug/net8.0/app0226.pdb
+/Users/leeyongjae/Desktop/Projects/likelion/LikeLion_Csharp/app0226/obj/Debug/net8.0/app0226.GeneratedMSBuildEditorConfig.editorconfig
+/Users/leeyongjae/Desktop/Projects/likelion/LikeLion_Csharp/app0226/obj/Debug/net8.0/app0226.AssemblyInfoInputs.cache
+/Users/leeyongjae/Desktop/Projects/likelion/LikeLion_Csharp/app0226/obj/Debug/net8.0/app0226.AssemblyInfo.cs
+/Users/leeyongjae/Desktop/Projects/likelion/LikeLion_Csharp/app0226/obj/Debug/net8.0/app0226.csproj.CoreCompileInputs.cache
+/Users/leeyongjae/Desktop/Projects/likelion/LikeLion_Csharp/app0226/obj/Debug/net8.0/app0226.sourcelink.json
+/Users/leeyongjae/Desktop/Projects/likelion/LikeLion_Csharp/app0226/obj/Debug/net8.0/app0226.dll
+/Users/leeyongjae/Desktop/Projects/likelion/LikeLion_Csharp/app0226/obj/Debug/net8.0/refint/app0226.dll
+/Users/leeyongjae/Desktop/Projects/likelion/LikeLion_Csharp/app0226/obj/Debug/net8.0/app0226.pdb
+/Users/leeyongjae/Desktop/Projects/likelion/LikeLion_Csharp/app0226/obj/Debug/net8.0/app0226.genruntimeconfig.cache
+/Users/leeyongjae/Desktop/Projects/likelion/LikeLion_Csharp/app0226/obj/Debug/net8.0/ref/app0226.dll
